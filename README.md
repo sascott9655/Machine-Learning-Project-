@@ -1,1 +1,1 @@
-This project was done and collaborate on Google Collab.
+This project was done and collaborated on Google Collab.
